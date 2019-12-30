@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "test": "jest --noStackTrace -b=1000"
+  },
+  "name": "tasks",
+  "description": "Different tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/notaktik/tasks.git"
+  },
+  "keywords": [
+    "andersen",
+    "tasks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/notaktik/tasks/issues"
+  },
+  "homepage": "https://gitlab.com/notaktik/tasks#readme"
+}
